@@ -1,0 +1,70 @@
+{
+  "objectInfo" : {
+    "id" : "6EiUAL9kAwnlqaRXBrMRC3",
+    "name" : "Mapping_RESTV2",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01DF4H17000000000004"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2025-08-08T19:03:02.171Z",
+  "objectRefs" : [ {
+    "id" : "0JFKIW9VGO8dYQQX9WcBMO",
+    "name" : "IDMC_203_LocalCSVFile",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01DF4H0B000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "jORJ3WAvb05fP3l0btxWML",
+    "name" : "OpenWeather_RESTv2_Connection",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01DF4H0B000000000005"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ],
+  "readableFileExtension" : "json",
+  "readableFilePresent" : true
+}
